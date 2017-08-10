@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">GeoQuiz</string>
+
+    <string name="question_one">There is only one territory in Australia.</string>
+    <string name="question_two">There is one country that separates Finland and North Korea.</string>
+    <string name="question_three">Czechoslovakia was formed after WW1.</string>
+    <string name="question_four">There is only 10 countries that speak French.</string>
+    <string name="question_five">Morocco does not share border with Spain.</string>
+</resources>
