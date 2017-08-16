@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
+    <string name="cheat_app_name">Cheat</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="next_button">Next</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgement_toast">Cheater!</string>
     <string name="action_settings">GeoQuiz</string>
 
     <string name="question_one">There is only one territory in Australia.</string>
